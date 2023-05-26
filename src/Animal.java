@@ -1,6 +1,18 @@
 public class Animal {
-    // Definir 2 ou mais atributos
 
-    // Definir 1 ou mais métodos
-    
+    // atributos
+    int idade;
+    String especie;
+    String porte;
+    String raca;
+    String corPelo;
+    String corOlhoDireito;
+    String nome;
+
+    // métodos
+    public void comer(){
+        System.out.println("Animal comeu");
+    }
+
+
 }
