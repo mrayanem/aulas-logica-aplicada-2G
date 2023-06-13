@@ -9,7 +9,7 @@ public class Planta {
     //Sobrecarga do método construtor
 
     Planta(Semente semente){
-        
+        //algoritmo
     }
 
 }
