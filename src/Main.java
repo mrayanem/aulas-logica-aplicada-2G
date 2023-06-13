@@ -14,16 +14,15 @@ public class Main {
         // Definir comportamento do objeto
         qualquer.falar();
         adao.falar("baixo");
-        //criar mais objetos
-
-        //declarar
+        // Criar mais objetos
+        // Declarar objetos
         Pessoa rainha;
-        //instanciar
+        // Instalar objetos
         rainha = new Pessoa();
-        //definir forma do objeto
+        //Definir formato do objeto
         rainha.nome = "Tina";
         rainha.sobrenome = "Tunner";
-        //definir comportamento
+        // Definir comportamento
         rainha.falar();
         rainha.falar("alto");
         System.out.println(rainha.falar("alto", "grave"));
@@ -34,7 +33,6 @@ public class Main {
         cao.comer();
 
         rainha.comer();
-
 
     }
 }
