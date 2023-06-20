@@ -4,8 +4,14 @@ public class Produto {
 
     //Atributos
     int codigo;
-    String nome;
+    private String nome;
     double valor;
+
+    //seter
+   // public void setNome(String valor){
+     //   if (nivelAcesso == 5){
+      //      this.nome = valor;
+   // }
 
     //Construtor padrão
     Produto(){}

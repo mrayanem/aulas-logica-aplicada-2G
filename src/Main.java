@@ -43,5 +43,8 @@ public class Main {
         Produto remedio = new Produto(2, "Vermifugo");
         Produto brinquedo = new Produto("Bolinha");
 
+        //petisco.nome = "biscoito";
+        //petisco.setNome("biscoito");
+
     }
 }
